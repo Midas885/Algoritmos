@@ -1,0 +1,14 @@
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.exe
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.deps.json
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.runtimeconfig.json
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.dll
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\bin\Debug\net8.0\Algoritmos.pdb
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.AssemblyInfo.cs
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.dll
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\refint\Algoritmos.dll
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.pdb
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\Algoritmos.genruntimeconfig.cache
+C:\Users\eldiv\source\repos\Algoritmos\Algoritmos\obj\Debug\net8.0\ref\Algoritmos.dll
